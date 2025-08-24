@@ -1,15 +1,14 @@
-# README.md
-
 # Medical Scan Results Database
 
-A simple web-based project that organizes and displays medical scan results using **HTML, CSS, and JavaScript**. Exported from Taskade and converted into a clean, interactive format for GitHub.
+A lightweight web application for organizing and reviewing medical scan results. The project provides a simple interface with interactive checklists to help track and manage scan records effectively.
 
 ---
 
 ## 🚀 Features
-- Organized structure with headings and sections
-- Interactive checkboxes for marking scans as reviewed/checked
-- Responsive and clean design
+- **Interactive checklists** for marking scans as reviewed.
+- **Clean and responsive UI** built with HTML5 and CSS3.
+- **Lightweight JavaScript interactivity** for a seamless user experience.
+- **Easily extensible** structure for adding more scan categories or data.
 
 ---
 
@@ -24,24 +23,28 @@ Medical_Scan_Results_Database/
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Medical_Scan_Results_Database.git
    ```
 
-2. Open `index.html` in your browser.
+2. Navigate into the project folder:
+   ```bash
+   cd Medical_Scan_Results_Database
+   ```
 
-3. Check/uncheck scans as needed — the status will update visually.
+3. Open `index.html` in your browser.
 
 ---
 
-## 📖 Future Improvements
-- Add support for uploading actual scan images.
-- Expand categories (CT, MRI, Ultrasound, etc.).
-- Store scan review status in local storage or a backend database.
+## 📖 Future Enhancements
+- Add integration for uploading and displaying actual scan images.
+- Categorize scans (CT, MRI, Ultrasound, etc.) with expandable sections.
+- Implement persistent storage (LocalStorage or database integration).
+- Build a dashboard with search and filter functionality.
 
 ---
 
 ## 👨‍💻 Author
-Created by **Samuel Adeniyi** using Taskade + custom HTML/CSS/JS.
+Developed by **Samuel Adeniyi**. Passionate about leveraging technology to enhance healthcare solutions and streamline medical data management.
